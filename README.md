@@ -21,5 +21,5 @@ p              Pink
 
 ### Zoom
 ```
-In/out          Ctrl + 1 , Mouse scroll to zoom in/out
+Ctrl + 1        Mouse scroll to zoom in/out
 ```
