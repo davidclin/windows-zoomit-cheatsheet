@@ -23,3 +23,8 @@ p              Pink
 ```
 Ctrl + 1        Mouse scroll to zoom in/out
 ```
+
+### Timer
+```
+Ctrl + 3        Set time in settings
+```
