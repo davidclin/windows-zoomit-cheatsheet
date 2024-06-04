@@ -14,9 +14,11 @@ Ctrl + 4       LiveZoom
 Ctrl + 2        Draw mode
 Box             Ctrl + mouse
 Arrow           Ctrl + Shift
+Line            Shift + WinKey
 Freehand        Shift + mouse
 t               Type text
 shift + t       Type text (right aligned)
+Undo            Ctrl + z
 Exit            Esc
 ```
 
