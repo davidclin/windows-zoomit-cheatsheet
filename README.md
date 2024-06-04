@@ -9,7 +9,7 @@
 ```
 Ctrl + 1       Zoom
 Ctrl + 2       Draw
-Ctrl + 3       Time       
+Ctrl + 3       Timer       
 Ctrl + 4       LiveZoom
 
 ```
@@ -41,16 +41,3 @@ b              Blue
 p              Pink
 ```
 
-<hr>
-
-### Zoom
-```
-Ctrl + 1        Mouse scroll to zoom in/out
-```
-
-<hr>
-
-### Timer
-```
-Ctrl + 3        Set time in settings
-```
